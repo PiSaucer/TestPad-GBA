@@ -1,16 +1,10 @@
-
 {
     "C_Cpp.intelliSenseEngine": "default",
     "C_Cpp.default.includePath": [
         "${workspaceFolder}/**",
         "/opt/devkitpro/libgba/include/**",
         "/opt/devkitpro/devkitARM/include/**",
-        "/opt/devkitpro/devkitARM/arm-none-eabi/include/**",
-        "${workspaceFolder}/GBA/lib/butano/include/**",
-        "${workspaceFolder}/GBA/lib/common/include/**",
-        "${workspaceFolder}/GBA/lib/butano/src/**",
-        "${workspaceFolder}/GBA/lib/butano/hw/include/**",
-        "${workspaceFolder}/GBA/lib/butano/hw/3rd_part/**/include/**"
+        "/opt/devkitpro/devkitARM/arm-none-eabi/include/**"
     ],
     "C_Cpp.default.defines": [
         "__GBA__"
