@@ -1,0 +1,6 @@
+CompileFlags:
+  Add:
+    - "-IC:/devkitPro/libgba/include"
+    - "-IC:/devkitPro/devkitARM/include"
+    - "-IC:/devkitPro/devkitARM/arm-none-eabi/include"
+    - "-D__GBA__"

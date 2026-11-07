@@ -1,0 +1,15 @@
+
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}\\**",
+        "C:\\devkitPro\\libgba\\include\\**",
+        "C:\\devkitPro\\devkitARM\\include\\**",
+        "C:\\devkitPro\\devkitARM\\arm-none-eabi\\include\\**"
+    ],
+    "C_Cpp.default.defines": [
+        "__GBA__"
+    ],
+    "C_Cpp.default.compilerPath": "C:\\devkitPro\\devkitARM\\bin\\arm-none-eabi-gcc",
+    "C_Cpp.default.intelliSenseMode": "windows-gcc-arm"
+}
